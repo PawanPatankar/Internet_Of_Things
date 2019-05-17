@@ -1,0 +1,6 @@
+SSID = 'Your SSID'
+AUTH_TOKEN = 'Your Auth. Token'
+FROM_NUMBER = 'Number which sends sms'
+TO_NUMBER = 'Your Mobile Number'
+API_KEY = 'Bolt API key'
+DEVICE_ID = 'Device ID'
